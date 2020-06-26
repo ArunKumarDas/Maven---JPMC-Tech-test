@@ -13,7 +13,7 @@ public class Rank {
     }
 
     public int getRank() {
-        return rank;
+        return rank; 
     }
 
     public String getEntity() {
