@@ -8,6 +8,7 @@ import model.trade.Trade;
 public interface IStockReportGen {
     
 	String generateStockReportGen(Set<Trade> trade);
+	//demo setter
 
 	
 
